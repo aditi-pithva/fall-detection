@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+websockets
+tensorflow
+opencv-python
+numpy
+Pillow
